@@ -1,4 +1,8 @@
 <?php
+/*
+Use PHP to describe the quick sort. Input array (2,4,1,5,8,4,10,8,9,7)
+*/
+
 function php_quick_sort($arr)
 {
     if(count($arr) <= 1){
